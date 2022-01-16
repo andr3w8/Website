@@ -91,21 +91,21 @@ text-decoration: none;
 
 .top-cloud {
   position: absolute;
-  right: 350px;
+  right: 200px;
   top: 40px;
 
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 150px;
   bottom: 400px;
   
 
 }
 
 .skill-row {
-  width: 60%;
+  width: 30%;
   margin: 100px auto 100px auto;
   text-align: left;
 
@@ -114,13 +114,13 @@ text-decoration: none;
 }
 
 .computer {
-  width: 25%;
+  width: 30%;
   float: left;
   margin-right: 30px;
 }
 
 .ai {
-  width: 25%;
+  width: 30%;
   float: right;
   margin-left: 30px;
 }
