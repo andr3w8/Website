@@ -90,16 +90,16 @@ text-decoration: none;
 }
 
 .top-cloud {
-  position: absolute;
-  right: 500px;
+  position: relative;
+  right: -300px;
   top: 40px;
 
 }
 
 .bottom-cloud {
-  position: absolute;
-  left: 400px;
-  bottom: 400px;
+  position: relative;
+  left: 10px;
+  bottom: 300px;
   
 
 }
