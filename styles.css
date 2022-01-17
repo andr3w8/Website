@@ -90,15 +90,15 @@ text-decoration: none;
 }
 
 .top-cloud {
-  position: relative;
-  right: -300px;
+  position: absolute;
+  right: 500px;
   top: 40px;
 
 }
 
 .bottom-cloud {
-  position: relative;
-  left: 10px;
+  position: absolute;
+  left: 400px;
   bottom: 300px;
   
 
